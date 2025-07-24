@@ -1,4 +1,6 @@
 /*
+Writer : Kiran
+Date : 24-July-2025
 --Pattern Design — Understanding SQL Server data types is crucial for designing reliable, 
 		efficient, and consistent database Structures.
  
